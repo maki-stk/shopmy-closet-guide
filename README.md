@@ -10,7 +10,7 @@ This is where you ask it to build your site. Give it the guide link. You do not 
 
 ## 2. Copy and paste this
 
-> Help me build my own interactive ShopMy closet using this guide: [INSERT GUIDE LINK]. Ask me for my name, my exact ShopMy shelf link, and my design preferences. Pull every product and its tracked link from my shelf. Tell me which product photos I need to send. Show me a plan and a mockup first, on a phone and on desktop. Let me choose where each item goes. After I approve, keep the design exactly as approved.
+> Help me build my own interactive ShopMy closet using this guide: [https://github.com/maki-stk/shopmy-closet-guide/blob/main/BUILD_GUIDE.md]. Ask me for my name, my exact ShopMy shelf link, and my design preferences. Pull every product and its tracked link from my shelf. Tell me which product photos I need to send. Show me a plan and a mockup first, on a phone and on desktop. Let me choose where each item goes. After I approve, keep the design exactly as approved.
 
 ## 3. Answer its questions and make it yours
 
